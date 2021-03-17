@@ -1,0 +1,14 @@
+---
+title: minicran repository
+layout: post
+---
+
+# minicran repository
+
+[`drat`](https://github.com/eddelbuettel/drat) minicran package repository.
+
+## File listing
+
+```{r echo=FALSE}
+cat(readLines("src/contrib/PACKAGES"), sep = "\n")
+```

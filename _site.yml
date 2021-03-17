@@ -1,0 +1,8 @@
+name: "drat"
+output_dir: "."
+navbar:
+  title: "Extra packages"
+left:
+  - text: "Home"
+href: index.html
+exclude: ["drat", "src", "manifest.json"]

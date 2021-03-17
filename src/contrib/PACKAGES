@@ -1,0 +1,9 @@
+Package: cynkrathis
+Version: 0.2.0.9000
+Imports: checkmate, cli, gh, glue, jsonlite, purrr, renv, rlang,
+        rstudioapi, usethis, utils
+Suggests: desc, drat, gert, gitignore, pkgbuild, precommit, rmarkdown,
+        rsconnect, testthat (>= 3.0.0), tic (>= 0.9.0.9005), withr
+License: MIT + file LICENSE
+MD5sum: 1126be483d689f7a567f200076e8513a
+NeedsCompilation: no
